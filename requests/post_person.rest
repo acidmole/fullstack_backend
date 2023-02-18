@@ -3,5 +3,5 @@ Content-Type: application/json
 
 {
     "name": "Pertti J. Kurikka",
-    "number": ""
+    "number": "666"
 }
